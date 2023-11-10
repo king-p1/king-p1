@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @king-p1
-- 👀 I’m interested in ... coding, games and remote jobs
-- 🌱 I’m currently learning ... javascript
-- 💞️ I’m looking to collaborate on ... games
-- 📫 How to reach me ... ig @king._paul
+- 👋 Hi, I’m Oladele Paul 
+- 👀 I’m interested in ... programming, games and remote jobs
+- 🌱 I’m currently learning ... javascript and react
+- 💞️ I’m looking to collaborate on ... games,web apps and mobile apps
+- 📫 How to reach me ... ig @opaulo_one
 
 <!---
 king-p1/king-p1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
