@@ -1,7 +1,6 @@
 # Hi there, I'm Paul! 👋
 - 🚀 **Full-Stack Developer** with 3+ years of experience building scalable web applications
-
--🎓 Computer Science Student at Hillsborough College
+- 🎓 Computer Science Student at Hillsborough College
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
