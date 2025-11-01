@@ -8,8 +8,8 @@
 - **Tools:** Git, CI/CD, REST APIs
 
 ## 🌟 Featured Projects
-- **[Quickmeets](https://quickmeets.com)** - Smart QR code networking app with event management, instant messaging, and AI-powered follow-ups.
-- **[BUILDAFORM](https://buldaform-five.vercel.app)** - Drag-and-drop form builder with real-time analytics.
+- **[Quickmeets](https://quikmeets.com)** - Smart QR code networking app with event management, instant messaging, and AI-powered follow-ups.
+- **[BUILDAFORM](https://buildaform-five.vercel.app)** - Drag-and-drop form builder with real-time analytics.
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=king-p1&show_icons=true&theme=radical)
