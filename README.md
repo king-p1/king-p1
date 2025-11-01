@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul 
+# Hi there, I'm Paul! 👋
 - 🚀 **Full-Stack Developer** with 3+ years of experience building scalable web applications
 -🎓 Computer Science Student at Hillsborough College
 
@@ -8,12 +8,12 @@
 - **Tools:** Git, CI/CD, REST APIs
 
 ## 🌟 Featured Projects
-- **[AIM Platform](link)** - Enterprise web app serving 250+ financial institutions
-- **[BUILDAFORM](link)** - Drag-and-drop form builder with real-time analytics
+- **[Quickmeets](https://quickmeets.com)** - Smart QR code networking app with event management, instant messaging, and AI-powered follow-ups.
+- **[BUILDAFORM](https://buldaform-five.vercel.app)** - Drag-and-drop form builder with real-time analytics.
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=king-p1&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
-- LinkedIn: [Damilare Oladele Paul](your-linkedin)
+- LinkedIn: [Damilare Oladele Paul](https://www.linkedin.com/in/damilare-oladele-paul)
 - Email: oladelex4@gmail.com
