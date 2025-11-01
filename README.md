@@ -11,9 +11,6 @@
 - **[Quickmeets](https://quikmeets.com)** - Smart QR code networking app with event management, instant messaging, and AI-powered follow-ups.
 - **[BUILDAFORM](https://buildaform-five.vercel.app)** - Drag-and-drop form builder with real-time analytics.
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=king-p1&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect!
 - LinkedIn: [Damilare Oladele Paul](https://www.linkedin.com/in/damilare-oladele-paul)
 - Email: oladelex4@gmail.com
